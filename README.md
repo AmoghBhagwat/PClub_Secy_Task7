@@ -22,5 +22,7 @@ The generated clickbait statements are not very sensible, but this is what I cou
 
 ## References 
 https://www.tensorflow.org/text/tutorials/text_generation
+
 https://closeheat.com/blog/pytorch-lstm-text-generation-tutorial
+
 https://github.com/nikhilbarhate99/Char-RNN-PyTorch/tree/master
