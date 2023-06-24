@@ -10,6 +10,18 @@ Many different modifications were tried to improve the model's predictions like 
 
 The generated clickbait statements are not very sensible, but this is what I could manage in a short time frame.
 
+## Screenshots
+![image](https://github.com/AmoghBhagwat/PClub_Secy_Task7/assets/27415139/9fb9511b-11da-42eb-9d35-f20777597e49)
+
+![image](https://github.com/AmoghBhagwat/PClub_Secy_Task7/assets/27415139/16c9723d-2a53-4f5e-9c17-6a1cc1d48afe)
+
+![image](https://github.com/AmoghBhagwat/PClub_Secy_Task7/assets/27415139/79af1fce-9be0-46f4-bb68-9cb02d5e2d42)
+
+![image](https://github.com/AmoghBhagwat/PClub_Secy_Task7/assets/27415139/83f43a12-6019-4889-8971-1c495b378b37)
+
+![image](https://github.com/AmoghBhagwat/PClub_Secy_Task7/assets/27415139/03fef2ad-d46f-4477-9839-08ede16e7e43)
+
+
 ## Code Explanation
 ```model.py``` contains the code for the LSTM model class. 
 
